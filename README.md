@@ -1,2 +1,2 @@
-# Monte-Carlo-Risk-Simulation-of-a-Stock-Portfolio
-In this project, I use cholesky decomposition to produce monte carlo simulations and use them to asses the Value at Risk and the Conditional Value at Risk of a portfolio. 
+# Monte Carlo Risk Simulation of a Stock-Portfolio
+This project simulates portfolio risk using Monte Carlo methods to evaluate the potential future performance of a diversified stock portfolio. It incorporates Cholesky decomposition to model realistic asset correlations and calculates key risk metrics such as Value at Risk (VaR) and Conditional Value at Risk (CVaR). Scenario-based stress testing—such as negative sentiment shocks, one-time asset drops, and crisis-level volatility, to illustrates how adverse market conditions can affect portfolio value. The notebook includes fully reproducible code, visualizations, and markdown commentary to interpret results.
